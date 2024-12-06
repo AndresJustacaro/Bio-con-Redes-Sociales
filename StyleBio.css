@@ -1,0 +1,31 @@
+body{background-color: rgb(70, 8, 141);
+border: 2px solid aliceblue;
+width: 25vw;
+padding: 4.5em;
+margin: auto;}
+img{width: 15em;
+    height: 20em;
+    padding: 2em;
+    height: 20em;
+    border-radius: 280px;}
+.Encabezado{font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    text-align: center;}
+P{text-align: center;
+color: aliceblue;
+font-family: 'Courier New', Courier, monospace;}
+button{background-color: rgb(70, 8, 141);
+    font-family: 'Courier New', Courier, monospace;
+border-color: aliceblue;
+color: aliceblue;}
+.Botton{width: 10vw;}
+.Boton{padding: 5px;
+    color: blueviolet;
+text-align: center;
+color: rgb(25, 114, 192);}
+.Botton:hover{background-color: darkorchid;}
+footer{text-align: center;
+    color: aliceblue;
+font-family: cursive;
+font-size: 10px;
+font-weight: bolder;}
